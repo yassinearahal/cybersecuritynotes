@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "680457167a8445e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "soso.md"
               }
             }
           },
@@ -180,10 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "680457167a8445e9",
+  "active": "d0012075ff6fde8c",
   "lastOpenFiles": [
+    "soso",
     "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Vulnerability Searching.md",
-    "Untitled.md",
+    "soso.md",
     "TEST/HOHO.md",
     "TEST",
     "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Active Reconnaissance.md",
@@ -208,7 +194,6 @@
     "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/Netcat.md",
     "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/Socat.md",
     "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Nmap.md",
-    "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc/Enumeration.md",
     "The Shell.txt",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Windows Privesc",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc",
