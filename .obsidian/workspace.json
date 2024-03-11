@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Vulnerability Searching.md",
+                "file": "TEST/HOHO.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Vulnerability Searching.md",
+                "file": "TEST/HOHO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Vulnerability Searching.md",
+                "file": "TEST/HOHO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Vulnerability Searching.md"
+                "file": "TEST/HOHO.md"
               }
             }
           },
@@ -167,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0012075ff6fde8c",
+  "active": "c632d16f2873525a",
   "lastOpenFiles": [
+    "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Vulnerability Searching.md",
+    "TEST/HOHO.md",
     "TEST",
     "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Active Reconnaissance.md",
     "Linux OS/General & Useful Linux Commands.md",
@@ -192,7 +194,6 @@
     "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/Netcat.md",
     "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/Socat.md",
     "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Nmap.md",
-    "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Vulnerability Searching.md",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc/Enumeration.md",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc/Understanding Privesc.md",
     "The Shell.txt",
@@ -208,7 +209,6 @@
     "Attachments/Pasted image 20230809220114.png",
     "Attachments/Pasted image 20230809220058.png",
     "Attachments/Pasted image 20230809215129.png",
-    "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads",
     "Attachments/images.png",
     "Attachments/untitled.png",
     "Attachments/linux-nfs-diagram.png",
