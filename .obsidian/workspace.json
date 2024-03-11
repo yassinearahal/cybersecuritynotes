@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ff4e720e69b109af",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff4e720e69b109af",
+  "active": "d0012075ff6fde8c",
   "lastOpenFiles": [
+    "TEST",
     "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Active Reconnaissance.md",
     "Linux OS/General & Useful Linux Commands.md",
     "Cryptography/Encryption - Crypto 101.md",
@@ -205,7 +195,6 @@
     "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Vulnerability Searching.md",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc/Enumeration.md",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc/Understanding Privesc.md",
-    "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc/Exploiting PATH Variable.md",
     "The Shell.txt",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Windows Privesc",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc",
