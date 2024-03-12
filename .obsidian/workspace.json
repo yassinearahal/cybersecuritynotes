@@ -126,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ss.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,8 +161,9 @@
   },
   "active": "d0012075ff6fde8c",
   "lastOpenFiles": [
-    "S/ss.md",
+    "ss",
     "ss.md",
+    "S/ss.md",
     "S",
     "s.md",
     "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Vulnerability Searching.md",
@@ -192,7 +191,6 @@
     "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/Metasploit multi-handler.md",
     "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/The Shell.md",
     "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/WebShells.md",
-    "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/Netcat.md",
     "The Shell.txt",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Windows Privesc",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc",
