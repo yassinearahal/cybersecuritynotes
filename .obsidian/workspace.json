@@ -11,8 +11,12 @@
             "id": "2a8bb5bb2145a9b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ss.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S/ss.md"
+                "file": "ss.md"
               }
             }
           },
@@ -161,9 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0012075ff6fde8c",
+  "active": "2a8bb5bb2145a9b6",
   "lastOpenFiles": [
     "S/ss.md",
+    "ss.md",
     "S",
     "s.md",
     "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Vulnerability Searching.md",
@@ -192,7 +199,6 @@
     "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/The Shell.md",
     "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/WebShells.md",
     "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/Netcat.md",
-    "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/Socat.md",
     "The Shell.txt",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Windows Privesc",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc",
