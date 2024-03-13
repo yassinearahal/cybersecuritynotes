@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "33b9f5afdb616004",
+        "id": "f23bb848ecb03204",
         "type": "tabs",
         "children": [
           {
-            "id": "2a8bb5bb2145a9b6",
+            "id": "89eaf6deadb3e3e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dd/ss.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dd/ss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dd/ss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dd/ss.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a8bb5bb2145a9b6",
+  "active": "89eaf6deadb3e3e2",
   "lastOpenFiles": [
     "dd/ss.md",
     "dd",
