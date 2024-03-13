@@ -11,8 +11,12 @@
             "id": "2a8bb5bb2145a9b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dd/ss.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dd/ss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dd/ss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dd/ss.md"
+              }
             }
           },
           {
@@ -159,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0012075ff6fde8c",
+  "active": "2a8bb5bb2145a9b6",
   "lastOpenFiles": [
+    "dd/ss.md",
     "dd",
     "ss.md",
     "SS.md",
@@ -196,7 +205,6 @@
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Windows Privesc",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation",
-    "Red Teaming/Penetration Testing Engagement/Enumeration & Scanning/Nmap",
     "Attachments/Pasted image 20230809214849.png",
     "Attachments/Pasted image 20230809220114.png",
     "Attachments/Pasted image 20230809220058.png",
