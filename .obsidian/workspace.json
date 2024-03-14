@@ -11,8 +11,12 @@
             "id": "89eaf6deadb3e3e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ss/ss.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ss/ss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ss/ss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ss/ss.md"
+              }
             }
           },
           {
@@ -161,9 +169,11 @@
   },
   "active": "89eaf6deadb3e3e2",
   "lastOpenFiles": [
+    "ss.md",
+    "ss/ss.md",
+    "ss",
     "dd/ss.md",
     "dd",
-    "ss.md",
     "SS.md",
     "ss/ss.md",
     "ss",
@@ -191,12 +201,9 @@
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Windows Privesc/Vulnerable software.md",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Windows Privesc/Service Misconfigurations.md",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Windows Privesc/Scheduled Tasks.md",
-    "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Windows Privesc/Harvesting Passwords.md",
-    "Red Teaming/Penetration Testing Engagement/Exploitation/Shells & Payloads/Metasploit multi-handler.md",
     "The Shell.txt",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Windows Privesc",
     "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation/Linux Privesc",
-    "Red Teaming/Penetration Testing Engagement/Post-Eploitation/Privilege Escalation",
     "Attachments/Pasted image 20230809214849.png",
     "Attachments/Pasted image 20230809220114.png",
     "Attachments/Pasted image 20230809220058.png",
