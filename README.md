@@ -1,4 +1,4 @@
-** A Gift to the Security Community**
+**A Gift to the Security Community**
 
 This repository is your one-stop shop for curated cybersecurity knowledge, meticulously crafted in Obsidian. Whether you're a seasoned professional or an aspiring defender, consider this a treasure trove of insights and practical notes to elevate your skills.
 
